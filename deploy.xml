@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deploydescriptor>
     <global>
-        <version>102</version>
+        <version>156</version>
         <patchlevel>0</patchlevel>
         <id>scriptmanager</id>
         <vendor>ontoprise GmbH</vendor>
